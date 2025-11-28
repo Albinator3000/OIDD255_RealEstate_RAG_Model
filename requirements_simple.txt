@@ -28,6 +28,14 @@ beautifulsoup4>=4.12.0
 python-dotenv>=1.0.0
 tqdm>=4.66.0
 
+# OpenTelemetry - pinned to 1.37.0 for compatibility
+opentelemetry-api==1.37.0
+opentelemetry-sdk==1.37.0
+opentelemetry-exporter-otlp-proto-common==1.37.0
+opentelemetry-exporter-otlp-proto-grpc==1.37.0
+opentelemetry-proto==1.37.0
+opentelemetry-semantic-conventions==0.58b0
+
 # Jupyter
 jupyter
 ipykernel
