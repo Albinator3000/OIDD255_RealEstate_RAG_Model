@@ -1,4 +1,4 @@
-# AI Property Due Diligence Assistant
+# LoneStarAI
 ### OIDD 2550 - Lab 5: LLM Pitch Project
 
 **RAG-based system for real estate investment analysis using Llama 3.1 8B and Texas commercial land sales data (2018-2025)**
